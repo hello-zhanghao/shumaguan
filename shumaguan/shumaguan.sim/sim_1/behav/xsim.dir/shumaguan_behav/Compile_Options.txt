@@ -1,0 +1,1 @@
+-wto "71832cbd05884aa29ff2a13c3e822a06" --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "unisims_ver" -L "unimacro_ver" -L "secureip" --snapshot "shumaguan_behav" "xil_defaultlib.shumaguan" "xil_defaultlib.glbl" -log "elaborate.log" 
